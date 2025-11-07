@@ -46,7 +46,8 @@ los cuales inspiran mi creatividad y mi forma de abordar la tecnología desde un
 ## 🌐 Conéctate conmigo  
 
 - 💼 [GitHub](https://github.com/NeruDev): https://github.com/NeruDev
-- ✉️ Contacto académico: L232800651@toluca.tecnm.mx  
+- ✉️ Contacto académico: L23280651@toluca.tecnm.mx
+- Contacto personal: LedKutchi@gmail.com   
 
 ---
 
