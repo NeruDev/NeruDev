@@ -1,3 +1,0 @@
-"""
-MUSICA - Musical Database Management
-"""
